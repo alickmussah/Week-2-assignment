@@ -1,8 +1,5 @@
 # Week-2-assignment
 
-Google docs link for the analysis, refactoring and the documentation answers:
-https://docs.google.com/document/d/1PLuje8mt0Ne2BhvgEkwdAwLFrPmMD-3s/edit?usp=drivesdk&ouid=103421922550133423040&rtpof=true&sd=true
-
 Refactored Student Management System
 Overview
 
